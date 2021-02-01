@@ -1,0 +1,16 @@
+{
+    "name": "webidea24/magento2-module-fancybox",
+    "description": "Magento 2 Module to integrate fancybox",
+    "license": [
+        "MIT"
+    ],
+    "type": "magento2-module",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Webidea24\\Fancybox\\": ""
+        }
+    }
+}
